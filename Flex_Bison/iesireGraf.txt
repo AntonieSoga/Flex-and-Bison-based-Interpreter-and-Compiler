@@ -1,0 +1,413 @@
+
+
+Graph 0:
+
+          [=]
+           |
+   |----------|
+   |          |
+ id(A) c(Hello, World!)
+
+
+Graph 1:
+
+      [=]
+       |
+   |------|
+   |      |
+ id(B) c(BUna)
+
+
+Graph 2:
+
+ print
+   |
+   |
+   |
+ id(A)
+
+
+Graph 3:
+
+ print
+   |
+   |
+   |
+ id(B)
+
+
+Graph 4:
+
+ print
+   |
+   |
+   |
+ id(A)
+
+
+Graph 5:
+
+ print
+   |
+   |
+   |
+  [~]
+   |
+   |
+   |
+ id(A)
+
+
+Graph 6:
+
+      print
+        |
+        |
+        |
+       [+]
+        |
+    |--------|
+    |        |
+ c(hello) c(word)
+
+
+Graph 7:
+
+   print
+     |
+     |
+     |
+    [*]
+     |
+   |----|
+   |    |
+ c(aa) c(3)
+
+
+Graph 8:
+
+      print
+        |
+        |
+        |
+       [^]
+        |
+        |
+        |
+ c(Hello, WorDd!)
+
+
+Graph 9:
+
+ print
+   |
+   |
+   |
+  [++]
+   |
+   |
+   |
+ c(abc)
+
+
+Graph 10:
+
+ print
+   |
+   |
+   |
+  [++]
+   |
+   |
+   |
+ c(abc)
+
+
+Graph 11:
+
+ print
+   |
+   |
+   |
+  [--]
+   |
+   |
+   |
+ c(dbc)
+
+
+Graph 12:
+
+ print
+   |
+   |
+   |
+  [--]
+   |
+   |
+   |
+ c(dbc)
+
+
+Graph 13:
+
+ print
+   |
+   |
+   |
+  [--]
+   |
+   |
+   |
+ c(dbc)
+
+
+Graph 14:
+
+    print
+      |
+      |
+      |
+     [/]
+      |
+    |-----|
+    |     |
+ c(abcd) c(3)
+
+
+Graph 15:
+
+    print
+      |
+      |
+      |
+     [#]
+      |
+    |-----|
+    |     |
+ c(abcd) c(3)
+
+
+Graph 16:
+
+       print
+         |
+         |
+         |
+        [~]
+         |
+         |
+         |
+        [*]
+         |
+      |--------|
+      |        |
+     [#]      c(3)
+      |
+    |-----|
+    |     |
+ c(abcd) c(3)
+
+
+Graph 17:
+
+    print
+      |
+      |
+      |
+     [~]
+      |
+      |
+      |
+     [+]
+      |
+   |------|
+   |      |
+ c(abc) c(HM)
+
+
+Graph 18:
+
+     print
+       |
+       |
+       |
+      [-]
+       |
+    |-------|
+    |       |
+ c(abcde) c(bc)
+
+
+Graph 19:
+
+     print
+       |
+       |
+       |
+     [==]
+       |
+   |------|
+   |      |
+ c(abc) c(abc)
+
+
+Graph 20:
+
+    print
+      |
+      |
+      |
+     [==]
+      |
+   |-----|
+   |     |
+ c(ab) c(abc)
+
+
+Graph 21:
+
+     print
+       |
+       |
+       |
+     [!=]
+       |
+   |------|
+   |      |
+ c(abc) c(abc)
+
+
+Graph 22:
+
+    print
+      |
+      |
+      |
+     [!=]
+      |
+   |-----|
+   |     |
+ c(ab) c(abc)
+
+
+Graph 23:
+
+     print
+       |
+       |
+       |
+ c(group test)
+
+
+Graph 24:
+
+     print
+       |
+       |
+       |
+      [>=]
+       |
+   |-------|
+   |       |
+ c(abc) c(mnpp)
+
+
+Graph 25:
+
+     print
+       |
+       |
+       |
+      [>]
+       |
+   |-------|
+   |       |
+ c(abc) c(mnpp)
+
+
+Graph 26:
+
+     print
+       |
+       |
+       |
+      [>]
+       |
+   |------|
+   |      |
+ c(abc) c(abc)
+
+
+Graph 27:
+
+     print
+       |
+       |
+       |
+     [>=]
+       |
+   |------|
+   |      |
+ c(abc) c(abc)
+
+
+Graph 28:
+
+     print
+       |
+       |
+       |
+ c(group test)
+
+
+Graph 29:
+
+     print
+       |
+       |
+       |
+      [<=]
+       |
+   |-------|
+   |       |
+ c(abc) c(mnpp)
+
+
+Graph 30:
+
+     print
+       |
+       |
+       |
+      [<]
+       |
+   |-------|
+   |       |
+ c(abc) c(mnpp)
+
+
+Graph 31:
+
+     print
+       |
+       |
+       |
+      [<]
+       |
+   |------|
+   |      |
+ c(abc) c(abc)
+
+
+Graph 32:
+
+     print
+       |
+       |
+       |
+     [<=]
+       |
+   |------|
+   |      |
+ c(abc) c(abc)

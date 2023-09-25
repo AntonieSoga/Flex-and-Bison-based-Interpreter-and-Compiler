@@ -1,0 +1,32 @@
+Hello, World!
+BUna
+Hello, World!
+Lungimea sirului este 13(null)
+helloword
+aaaaaa
+hELLO, wORdD!
+(null)
+bbc
+bbc
+cbc
+cbc
+cbc
+bcd
+abc
+Lungimea sirului este 9(null)
+Lungimea sirului este 5(null)
+ade
+1
+0
+0
+1
+group test
+0
+0
+0
+1
+group test
+1
+1
+0
+1

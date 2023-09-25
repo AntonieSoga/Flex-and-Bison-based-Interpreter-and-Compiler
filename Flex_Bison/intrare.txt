@@ -1,0 +1,36 @@
+a = "Hello, World!";
+B = "BUna";
+print a;
+print B;
+print a; print ~a;
+print "hello" + "word";
+print "aa" * "3";
+print ^"Hello, WorDd!";
+print ++"abc";
+print "abc"++;
+print --"dbc";
+print "dbc"--;
+print "dbc"--;
+print "abcd" / "3";
+print "abcd" # "3";
+print ~(("abcd" # "3") * "3");
+print ~("abc"+"HM");
+print "abcde" - "bc";
+print "abc" == "abc";
+print "ab" == "abc";
+print "abc" != "abc";
+print "ab" != "abc";
+
+print "group test";
+
+print "abc" >= "mnpp";
+print "abc" > "mnpp";
+print "abc" > "abc";
+print "abc" >= "abc";
+
+print "group test";
+
+print "abc" <= "mnpp";
+print "abc" < "mnpp";
+print "abc" < "abc";
+print "abc" <= "abc";
